@@ -6,6 +6,6 @@ a greeting card which describes of the Natsume's Book of Friends，and it can pl
 The url（直接访问的网址）:https://orangesnow.github.io/The-GreetCard-to-Natsume-s-Book-of-Friends/GreetCard%20of%20Natsume/index.html
 
 ## 在手机端运行截图
-<img src="img/01.png" />
-<img src="img/02.png" />
-<img src="img/03.png" />
+<img src="img/1.png" />
+<img src="img/2.png" />
+<img src="img/3.png" />
