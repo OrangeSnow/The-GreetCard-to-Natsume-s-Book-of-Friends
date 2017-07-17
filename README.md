@@ -11,6 +11,7 @@ The url（直接访问的网址）:https://orangesnow.github.io/The-GreetCard-to
 右上角音乐播放器通过绝对定位固定
 
 并通过JS调节音量大小，暂停、播放音乐
+
 <img src="img/1.png" width="230"/>
 <img src="img/2.png" width="230"/>
 <img src="img/3.png" width="230"/>
