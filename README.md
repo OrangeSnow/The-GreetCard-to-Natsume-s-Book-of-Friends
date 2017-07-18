@@ -7,9 +7,9 @@ The url（直接访问的网址）:https://orangesnow.github.io/The-GreetCard-to
 
 <b>主要功能包括：</b>页面淡入淡出、CSS动画（灯光闪烁、图片旋转）、音乐播放与暂停、音量大小调节
 
-<b>主要技术：</b>大部分功能主要用animation+@keyframe+transform属性实现。
+<b>主要技术：</b>@keyframe、animation、transform、JavaScript。
 
-自适应移动端需要以vh和vw为单位。
+<b>注意点：</b>适应不同屏幕大小需要使用vh和vw为单位。
 
 
 ## 在手机端运行截图
