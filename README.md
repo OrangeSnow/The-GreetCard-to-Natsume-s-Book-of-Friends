@@ -6,7 +6,7 @@ a greeting card which describes of the Natsume's Book of Friends，and it can pl
 The url（直接访问的网址）:https://orangesnow.github.io/The-GreetCard-to-Natsume-s-Book-of-Friends/GreetCard%20of%20Natsume/index.html
 
 <b>主要功能包括：</b>页面淡入淡出、CSS动画（灯光闪烁、图片旋转）、音乐播放与暂停、音量大小调节
-</b>
+
 <b>主要技术：</b>大部分功能主要用animation+@keyframe+transform属性实现。
 
 自适应移动端需要以vh和vw为单位。
